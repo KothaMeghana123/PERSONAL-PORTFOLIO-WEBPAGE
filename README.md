@@ -29,3 +29,7 @@ The Contact page provides a form where visitors can enter their name, email, and
 Throughout the entire site, I applied consistent color schemes, font choices, and layout principles using CSS. I also used media queries to ensure that the design is responsive and works well on mobile devices, tablets, and desktops.
 
 Building this portfolio in VS Code gave me valuable experience in writing and organizing HTML and CSS code in a mobile environment. It improved my confidence in designing user interfaces and deepened my understanding of responsive web design. This portfolio not only serves as a personal brand but also as a practical demonstration of my technical abilities.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/39a4ea18-7172-474d-a861-eb8bfbbb4662)
